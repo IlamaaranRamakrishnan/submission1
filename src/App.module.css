@@ -1,0 +1,21 @@
+
+/* main div */
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+/* to change font */
+.fontChanging{
+ font-size: 30px;
+}
+
+.Buttons{
+    background-color: rgb(106, 106, 248);
+    width: 50px;
+    font-size: 30px;
+    margin: 10px;
+}
